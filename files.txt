@@ -1,2 +1,2 @@
 /config.txt|https://raw.githubusercontent.com/qualitygopu/files/main/config.txt
-/001 Subrahatham.mp3|https://raw.githubusercontent.com/qualitygopu/files/main/001 Subrahatham.mp3
+/001Subrahatham.mp3|https://raw.githubusercontent.com/qualitygopu/files/main/001Subrahatham.mp3
