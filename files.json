@@ -1,0 +1,20 @@
+{
+    "files": 
+        {
+            "SS" : "hr",
+            "VO" : "hr",
+            "HR" : "hr",
+            "MO" : "mo",
+            "DT" : "dt",
+            "DW" : "dw",
+            "PN" : "pn",
+            "SN1" : ["Song1", 67, "Loop"],
+            "SN2" : ["Song2", 67, "Loop"],
+            "SN3" : ["Song3", 67, "Loop"],
+            "SN4" : ["Song4", 67, "Loop"],
+            "SN5" : ["Song5", 67, "Loop"],
+            "SN6" : ["Song6", 67, "Loop"],
+            "SN7" : ["Song7", 67, "Loop"],
+            "DWS" : ["DW", 34, "Loop"]
+        }
+}
