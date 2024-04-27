@@ -1,20 +1,17 @@
 {
-    "files": 
-        {
-            "SS" : ["Starting Song",    24, "hr"],
-            "VO" : ["Voice",            24, "hr"],
-            "HR" : ["Hour",             24, "hr"],
-            "MO" : ["Month",            12, "mo"],
-            "DT" : ["Date",             31, "dt"],
-            "DW" : ["Day",              7,  "dw"],
-            "PN" : ["Panchangam",       366, "pn"],
-            "SN1" : ["Song1", 67, "Loop"],
-            "SN2" : ["Song2", 67, "Loop"],
-            "SN3" : ["Song3", 67, "Loop"],
-            "SN4" : ["Song4", 67, "Loop"],
-            "SN5" : ["Song5", 67, "Loop"],
-            "SN6" : ["Song6", 67, "Loop"],
-            "SN7" : ["Song7", 67, "Loop"],
-            "DWS" : ["Day wise Song", 34, "Loop"]
-        }
+    "SS" : ["Starting Song",    24, "hr"],
+    "VO" : ["Voice",            24, "hr"],
+    "HR" : ["Hour",             24, "hr"],
+    "MO" : ["Month",            12, "mo"],
+    "DT" : ["Date",             31, "dt"],
+    "DW" : ["Day",              7,  "dw"],
+    "PN" : ["Panchangam",       366, "pn"],
+    "SN1" : ["Song1", 67, "Loop"],
+    "SN2" : ["Song2", 67, "Loop"],
+    "SN3" : ["Song3", 67, "Loop"],
+    "SN4" : ["Song4", 67, "Loop"],
+    "SN5" : ["Song5", 67, "Loop"],
+    "SN6" : ["Song6", 67, "Loop"],
+    "SN7" : ["Song7", 67, "Loop"],
+    "DWS" : ["Day wise Song", 34, "Loop"]
 }
