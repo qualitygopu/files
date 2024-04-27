@@ -41,7 +41,7 @@
         "DT" : ["Date",             31,     "dt"],
         "DW" : ["Day",              7,      "dw"],
         "PN" : ["Panchangam",       366,    "pn"],
-        "SN1" : ["Song1",           67,     "Loop"],
+        "SN1" : ["Song1",           69,     "Loop"],
         "SN2" : ["Song2",           67,     "Loop"],
         "SN3" : ["Song3",           67,     "Loop"],
         "SN4" : ["Song4",           67,     "Loop"],
