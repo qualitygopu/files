@@ -24,7 +24,28 @@
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
+            }
+        },
+        {
+            "isPlay": false,
+            "SongConfig": {
+                    "SS" : ["Starting Song",    24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
+            }
+        },
+        {
+            "isPlay": false,
+            "SongConfig": {
+                    "SS" : ["Starting Song",    24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
+            }
+        },
+        {
+            "isPlay": false,
+            "SongConfig": {
+                    "SS" : ["Starting Song",    24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
@@ -38,149 +59,128 @@
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
             }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"],
-            }
-        },
+        }
     ],
     "FolderConfig" : 
         {
