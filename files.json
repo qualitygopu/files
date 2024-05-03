@@ -4,194 +4,278 @@
             "isPlay": false,
             "SongConfig": {
                     "SS" : ["Starting Song",    24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
+            }
+        },
+        {
+            "isPlay": false,
+            "SongConfig": {
+                    "SS" : ["Starting Song",    24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
+            }
+        },
+        {
+            "isPlay": false,
+            "SongConfig": {
+                    "SS" : ["Starting Song",    24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
+            }
+        },
+        {
+            "isPlay": false,
+            "SongConfig": {
+                    "SS" : ["Starting Song",    24,     "hr"],
+                    "VO" : ["Voice",            24,     "hr"]
+            }
+        },
+        {
+            "isPlay": false,
+            "SongConfig": {
+                    "SS" : ["Starting Song",    24,     "hr"],
                     "VO" : ["Voice",            24,     "hr"],
-                    "HR" : ["Hour",             24,     "hr"],
-                    "MO" : ["Month",            12,     "mo"],
-                    "DT" : ["Date",             31,     "dt"],
-                    "DW" : ["Day",              7,      "dw"],
-                    "PN" : ["Panchangam",       366,    "pn"],
-                    "SN1" : ["Song1",           67,     "Loop"],
-                    "SN2" : ["Song2",           67,     "Loop"],
-                    "SN3" : ["Song3",           67,     "Loop"],
-                    "SN4" : ["Song4",           67,     "Loop"],
-                    "SN5" : ["Song5",           67,     "Loop"],
-                    "SN6" : ["Song6",           67,     "Loop"],
-                    "SN7" : ["Song7",           67,     "Loop"],
-                    "DWS" : ["Day wise Song",   34,     "Loop"]
+                    "HR" : ["Hour",             24,     "hr"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "PN" : ["Panchangam",       366,    "pn"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "PN" : ["Panchangam",       366,    "pn"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "PN" : ["Panchangam",       366,    "pn"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "PN" : ["Panchangam",       366,    "pn"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "PN" : ["Panchangam",       366,    "pn"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
+            }
+        },
+        {
+            "isPlay": true,
+            "SongConfig": {
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"],
+                "MO" : ["Month",            12,     "mo"],
+                "DT" : ["Date",             31,     "dt"],
+                "DW" : ["Day",              7,      "dw"],
+                "SN1" : ["Song1",           67,     "LP"]
             }
         },
         {
             "isPlay": false,
             "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
-            }
-        },
-        {
-            "isPlay": false,
-            "SongConfig": {
-                    "SS" : ["Starting Song",    24,     "hr"],
-                    "VO" : ["Voice",            24,     "hr"]
+                "SS" : ["Starting Song",    24,     "hr"],
+                "VO" : ["Voice",            24,     "hr"],
+                "HR" : ["Hour",             24,     "hr"]
             }
         }
     ],
     "FolderConfig" : 
         {
-        "SN1" : ["Song 1",     67, "Loop"],
-        "SN2" : ["Song 2",     67, "Loop"],
-        "SN3" : ["Song 3",     67, "Loop"],
-        "SN4" : ["Song 4",     67, "Loop"],
-        "SN5" : ["Song 5",     67, "Loop"],
-        "SN6" : ["Song 6",     67, "Loop"],
-        "SN7" : ["Song 7",     67, "Loop"],
-        "DWS" : ["DW Song",    34, "Loop"]
+        "SN1" : ["Song 1",     67, "RN"],
+        "SN2" : ["Song 2",     67, "RN"],
+        "SN3" : ["Song 3",     67, "RN"],
+        "SN4" : ["Song 4",     67, "RN"],
+        "SN5" : ["Song 5",     67, "RN"],
+        "SN6" : ["Song 6",     67, "RN"],
+        "SN7" : ["Song 7",     67, "RN"],
+        "DWS" : ["DW Song",    34, "RN"]
         },
     "AudioMaster" :
     {
@@ -202,14 +286,14 @@
         "DT" : ["Date",             31,     "dt"],
         "DW" : ["Day",              7,      "dw"],
         "PN" : ["Panchangam",       366,    "pn"],
-        "SN1" : ["Song1",           69,     "Loop"],
-        "SN2" : ["Song2",           67,     "Loop"],
-        "SN3" : ["Song3",           67,     "Loop"],
-        "SN4" : ["Song4",           67,     "Loop"],
-        "SN5" : ["Song5",           67,     "Loop"],
-        "SN6" : ["Song6",           67,     "Loop"],
-        "SN7" : ["Song7",           67,     "Loop"],
-        "DWS" : ["Day wise Song",   34,     "Loop"]
+        "SN1" : ["Song1",           69,     "RN"],
+        "SN2" : ["Song2",           67,     "RN"],
+        "SN3" : ["Song3",           67,     "RN"],
+        "SN4" : ["Song4",           67,     "RN"],
+        "SN5" : ["Song5",           67,     "RN"],
+        "SN6" : ["Song6",           67,     "RN"],
+        "SN7" : ["Song7",           67,     "RN"],
+        "DWS" : ["Day wise Song",   34,     "RN"]
     }
 
     
