@@ -1,0 +1,70 @@
+{
+"AlarmConfig": 
+    [
+       
+        {
+            "tim" :  [[0,0],[6,6],[1,31],[1,12],[1,7]],
+            "SC" :   [[24,"hr", "SS", "Starting Song"],
+                      [24,"hr", "VO", "Voice"],
+                      [24,"hr", "HR", "Hour"],
+                      [12,"mo", "MO", "Month"],
+                      [31,"dt", "DT", "Date"],
+                      [7, "dw", "DW", "Day"],
+                      [366,"pn", "PN", "Panchangam"],
+                      [69, "Suprabatham", "SP", "Sel. Song"]]
+        },
+        {
+            "tim" : [[0,0],[8,8],[1,31],[1,12],[1,7]],
+            "SC":   [[24,"hr", "SS", "Starting Song"],
+                    [24,"hr", "VO", "Voice"],
+                    [24,"hr", "HR", "Hour"],
+                    [12,"mo", "MO", "Month"],
+                    [31,"dt", "DT", "Date"],
+                    [7, "dw", "DW", "Day"],
+                    [366,"pn", "PN", "Panchangam"],
+                    [69, "LP", "SN1", "Song1"],
+                    [67, "LP", "SN2", "Song2"],
+                    [67, "LP", "SN3", "Song3"],
+                    [67, "hr", "MSG", "Message"]]
+        },
+        {
+            "tim" :  [[0,0],[10,10],[1,31],[1,12],[1,7]],
+            "SC":   [[24,"hr", "SS", "Starting Song"],
+                    [24,"hr", "VO", "Voice"],
+                    [24,"hr", "HR", "Hour"],
+                    [12,"mo", "MO", "Month"],
+                    [31,"dt", "DT", "Date"],
+                    [7, "dw", "DW", "Day"],
+                    [366,"pn", "PN", "Panchangam"],
+                    [69, "LP", "SN1", "Song1"],
+                    [67, "LP", "SN2", "Song2"],
+                    [67, "LP", "SN3", "Song3"],
+                    [67, "hr", "MSG", "Message"]]
+        },
+        {
+            "tim" :  [[0,0],[18,18],[1,31],[1,12],[1,7]],
+            "SC":   [[24,"hr", "SS", "Starting Song"],
+                     [24,"hr", "VO", "Voice"],
+                     [24,"hr", "HR", "Hour"],
+                     [12,"mo", "MO", "Month"],
+                     [31,"dt", "DT", "Date"],
+                     [7, "dw", "DW", "Day"],
+                     [69, "Kanda Sashti Kavacham", "SP", "Sel. Song"]]
+        },
+        {
+            "tim" :  [[0,0],[5,22],[1,31],[1,12],[1,7]],
+            "SC":   [[24,"hr", "SS", "Starting Song"],
+                    [24,"hr", "VO", "Voice"],
+                    [24,"hr", "HR", "Hour"],
+                    [12,"mo", "MO", "Month"],
+                    [31,"dt", "DT", "Date"],
+                    [7, "dw", "DW", "Day"],
+                    [69, "LP", "SN1", "Song1"],
+                    [67, "LP", "SN2", "Song2"],
+                    [1080, "LP", "SN3", "Song3"],
+                    [24, "hr", "MSG", "Message"]]
+        }
+    ],
+    "silentHours" :  [[[0,0],[5,22],[1,31],[1,12],[2,2]],
+                     [[0,0],[9,16],[1,31],[1,12],[2,7]]]
+}
